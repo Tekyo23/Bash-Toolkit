@@ -1,0 +1,16 @@
+# Temporary files
+*.tmp
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# Test output
+tests/
+
+# Secrets / local configuration
+.env
+config/local.conf
+logs/
+*.log
